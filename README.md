@@ -1,5 +1,7 @@
 # Airbnb ESLint configuration for ESLint v9
 
+It is a temporary package that provides the Airbnb ESLint configuration for ESLint v9. Follow [issue](https://github.com/airbnb/javascript/issues/2961) for updates.
+
 ## Installation
 
 Install package to include the Airbnb ESLint configuration:
