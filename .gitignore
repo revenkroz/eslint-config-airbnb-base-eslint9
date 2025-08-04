@@ -1,0 +1,6 @@
+# IDE
+.idea
+.vscode
+
+# package directories
+node_modules
